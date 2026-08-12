@@ -44,9 +44,9 @@ and profit prediction project.
 │   └── chocolate_sales.sql
 │
 ├── dashboard/
-
-Author
-Rajendra Goud
 │   └── Chocolate_Sales.pdf
 │
 └── README.md
+
+Author
+Rajendra Goud
