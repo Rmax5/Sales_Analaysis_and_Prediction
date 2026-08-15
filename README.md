@@ -156,4 +156,3 @@ Sales_Analysis_and_Prediction/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-Rajendra Goud
